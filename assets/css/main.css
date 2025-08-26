@@ -1,0 +1,229 @@
+.custom-color .loader-wrap .layer .overlay {
+
+    background: #e8212b;
+}
+
+.custom-color .main-menu-two__side-content-icon .navSidebar-button {
+    background-color: #e8212b;
+}
+
+.custom-color .handle-preloader .animation-preloader .txt-loading .letters-loading {
+    color: #fff;
+}
+
+.custom-color .main-slider-two__btn span {
+    border: 2px solid #fff;
+}
+
+.custom-color .main-slider-two__btn {
+    background: #e8212b;
+    color: #fff;
+}
+
+.custom-color .main-menu-two .main-menu__list>li.current>a, .main-menu-two .main-menu__list>li:hover>a, .stricky-header.main-menu-two .main-menu__list>li.current>a, .stricky-header.main-menu-two .main-menu__list>li:hover>a {
+
+    color: #e8212b !important;
+}
+
+.custom-color .main-menu .main-menu__list>li>ul, .main-menu .main-menu__list>li>ul>li>ul, .stricky-header .main-menu__list>li>ul, .stricky-header .main-menu__list>li>ul>li>ul {
+    border-top: 2px solid #e8212b;
+}
+
+.custom-color .side-content-newsletter-box .form-group button {
+    background-color: #e8212b;
+    color: #fff;
+}
+
+.custom-color .about-two__experience-box {
+    background-color: #e8212b;
+    color: #fff;
+}
+
+.custom-color .about-two__experience-box span {
+    color: #fff;
+}
+
+.custom-color .about-two__experience-box p {
+    color: #fff;
+}
+
+.custom-color .about-two__btn {
+    background-image: none;
+}
+
+.custom-color .thm-btn {
+    background-color: none;
+}
+
+.custom-color .thm-btn::before {
+    background-color: #fff;
+}
+
+.custom-color .footer-widget__subscribe-btn {
+    background-color: #e8212b !important;
+}
+
+.custom-color .about-two__points li .icon span {
+    background-color: #f33841 !important;
+}
+
+.custom-color .section-title__tagline:before {
+    background-color: #f33841;
+
+}
+
+.custom-color .section-title__tagline {
+    color: #f33841;
+}
+
+.custom-color .our-mission__title {
+    color: #f33841;
+}
+
+.custom-color .our-mission__title:before {
+    background-color: #f33841;
+}
+
+.custom-color .testimonial-one__title-box h5 {
+    color: #e8212b;
+}
+
+.custom-color .testimonial-one__title-box:before {
+    background-color: #e8212b;
+}
+
+.custom-color .flixible-price__btn {
+    background-image: none;
+    font-weight: 700;
+    background-color: #e8212b;
+    padding: 11px 31px 11px;
+}
+
+.custom-color .section-title__title {
+    color: black;
+}
+
+.custom-color .icon-dots-menu-2-1 {
+    background-color: #fff;
+}
+
+.custom-color .icon-dots-menu-2-2 {
+    background-color: #fff;
+}
+
+.custom-color .main-slider-two__btn:hover {
+    background-color: transparent;
+    border: 1px solid #e8212b;
+    color: #e8212b;
+}
+
+.custom-color .main-slider-two__btn:hover span {
+    border: 1px solid #e8212b;
+    color: #f15151;
+}
+
+.custom-color .main-slider-two__call-icon span {
+    color: #e8212b;
+}
+
+.custom-color .main-slider-two__sub-title {
+
+    color: #e8212b;
+
+    background-color: rgb(250 210 210 / 50%);
+
+}
+
+element.style {}
+
+.custom-color .thm-btn {
+    background-color: none;
+}
+
+.custom-color .about-two__btn {
+    background-image: none;
+}
+
+.custom-color .about-two__btn {
+    font-size: 14px;
+    padding: 15px 50px 15px;
+    background-image: none;
+    background-color: #fff;
+}
+
+.custom-color .about-two__btn.borderbtn {
+    color: #e8212b;
+    border: 1px solid #e8212b;
+    background-color: none;
+}
+
+.custom-color .about-two__btn.borderbtn {
+    background-color: none;
+}
+
+.custom-color .about-two__btn.borderbtn:hover {
+    background-color: #e8212b;
+    color: #e8212b;
+}
+.custom-color  .about-two__call-box .icon span{
+    color: #e8212b;
+}
+.custom-color .about-two__call-box .text h3 a
+ {
+    color: #e8212b;
+}
+.custom-color  .about-two__call-box .text p{
+    color: #e8212b;
+}
+.custom-color .services-two__right-btn a{
+    color: #e8212b;
+}
+.custom-color .services-two__right-btn a::before{
+    background-color: #e8212b;
+}
+.custom-color .team-one__name a{
+    color: #e8212b;
+}
+.custom-color .testimonial-one__text{
+    color: #e8212b;
+}
+.custom-color .blog-one__date p span{
+ color: #e8212b;
+}
+.custom-color .blog-one__date p span::before{
+background-color: #e8212b;
+}
+.custom-color  .scroll-to-top{
+    background-color: #e8212b;
+}
+ .custom-color  .main-slider-two__nav .swiper-button-next,.custom-color  .main-slider-two__nav .swiper-button-prev{
+      border: 1px solid #e8212b;
+      color: #e8212b;
+}
+ .custom-color .main-header-two__social a{
+    color: #e8212b;
+}
+ .custom-color .main-header-two__top-number a{
+    color: #e8212b;
+}
+ .custom-color  .testimonial-one__carousel.owl-carousel .owl-dots .owl-dot {
+
+    border: 2px solid #e8212b;
+  
+}
+ .custom-color  .testimonial-one__carousel.owl-carousel .owl-dot.active{
+    background-color: #fff;
+}
+ .custom-color   .team-one__social{
+    background-color: #e8212b;
+}
+ .custom-color  .team-one__icon>a{
+   background-color: #e8212b;
+   color: #fff;
+}
+ .custom-color  .team-one__social li a{
+    color: #fff;
+}
+ .custom-color .testimonial-one__quote i{
+    color: #e8212b;
+}
