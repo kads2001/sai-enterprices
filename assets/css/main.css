@@ -125,7 +125,9 @@
 .custom-color .main-slider-two__call-icon span {
     color: #e8212b;
 }
-
+.custom-color .blog-one__date p span::after{
+    background-color: red;
+}
 .custom-color .main-slider-two__sub-title {
 
     color: #e8212b;
@@ -165,76 +167,176 @@ element.style {}
     background-color: #e8212b;
     color: #e8212b;
 }
-.custom-color  .about-two__call-box .icon span{
+
+.custom-color .about-two__call-box .icon span {
     color: #e8212b;
 }
-.custom-color .about-two__call-box .text h3 a
- {
+
+.custom-color .about-two__call-box .text h3 a {
     color: #e8212b;
 }
-.custom-color  .about-two__call-box .text p{
+
+.custom-color .about-two__call-box .text p {
     color: #e8212b;
 }
-.custom-color .services-two__right-btn a{
+
+.custom-color .services-two__right-btn a {
     color: #e8212b;
 }
-.custom-color .services-two__right-btn a::before{
+
+.custom-color .services-two__right-btn a::before {
     background-color: #e8212b;
 }
-.custom-color .team-one__name a{
+
+.custom-color .team-one__name a {
     color: #e8212b;
 }
-.custom-color .testimonial-one__text{
+
+.custom-color .testimonial-one__text {
     color: #e8212b;
 }
-.custom-color .blog-one__date p span{
- color: #e8212b;
+
+.custom-color .blog-one__date p span {
+    color: #e8212b;
 }
-.custom-color .blog-one__date p span::before{
-background-color: #e8212b;
-}
-.custom-color  .scroll-to-top{
+
+.custom-color .blog-one__date p span::before {
     background-color: #e8212b;
 }
- .custom-color  .main-slider-two__nav .swiper-button-next,.custom-color  .main-slider-two__nav .swiper-button-prev{
-      border: 1px solid #e8212b;
-      color: #e8212b;
+
+.custom-color .scroll-to-top {
+    background-color: #e8212b;
 }
- .custom-color .main-header-two__social a{
+
+.custom-color .main-slider-two__nav .swiper-button-next, .custom-color .main-slider-two__nav .swiper-button-prev {
+    border: 1px solid #e8212b;
     color: #e8212b;
 }
- .custom-color .main-header-two__top-number a{
+
+.custom-color .main-header-two__social a {
     color: #e8212b;
 }
- .custom-color  .testimonial-one__carousel.owl-carousel .owl-dots .owl-dot {
+
+.custom-color .main-header-two__top-number a {
+    color: #e8212b;
+}
+
+.custom-color .testimonial-one__carousel.owl-carousel .owl-dots .owl-dot {
 
     border: 2px solid #e8212b;
-  
+
 }
- .custom-color  .testimonial-one__carousel.owl-carousel .owl-dot.active{
+
+.custom-color .testimonial-one__carousel.owl-carousel .owl-dot.active {
     background-color: #fff;
 }
- .custom-color   .team-one__social{
+
+.custom-color .team-one__social {
     background-color: #e8212b;
 }
- .custom-color  .team-one__icon>a{
-   background-color: #e8212b;
-   color: #fff;
-}
- .custom-color  .team-one__social li a{
+
+.custom-color .team-one__icon>a {
+    background-color: #e8212b;
     color: #fff;
 }
- .custom-color .testimonial-one__quote i{
+
+.custom-color .team-one__social li a {
+    color: #fff;
+}
+
+.custom-color .testimonial-one__quote i {
     color: #e8212b;
 }
- .custom-color .scroll-to-top:hover {
+
+.custom-color .scroll-to-top:hover {
     background-color: transparent;
     border: 1px solid red;
     color: red;
 }
- .custom-color  .scroll-to-top:hover i{
-       color: red;
+
+.custom-color .scroll-to-top:hover i {
+    color: red;
 }
- .custom-color .team-one__single:hover .team-one__name a{
-color: red;
+
+.custom-color .team-one__single:hover .team-one__name a {
+    color: red;
+}
+
+.custom-color .main-slider-two .container {
+
+    padding-top: 100px;
+}
+
+@media screen and (max-width:767px) {
+    .custom-color .main-slider-two .container {
+
+        padding-top: 70px;
+
+    }
+
+    .custom-color .main-slider-two__sub-title {
+        font-size: 10px;
+
+    }
+
+    .custom-color .main-slider-two__sub-title {
+        padding: 4px 12px 1px;
+    }
+
+    .custom-color .main-slider-two__title {
+        font-size: 38px;
+        line-height: 40px;
+    }
+
+    .custom-color .main-slider-two__text {
+        font-size: 18px;
+        line-height: 22px;
+    }
+
+    .custom-color .main-slider-two__call-icon span {
+        font-size: 45px;
+    }
+
+    .custom-color .main-slider-two-call__content p {
+        font-size: 16px;
+    }
+
+    .custom-color .main-slider-two-call__content h5 {
+        font-size: 20px;
+    }
+
+    .custom-color .main-slider-two__btn {
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+
+    .custom-color .mobile-nav__content .main-menu__list>li>a>button, .mobile-nav__content .main-menu__list>li>ul>li>a>button, .mobile-nav__content .main-menu__list>li>ul>li>ul>li>a>button {
+        background-color: red;
+    }
+
+    .custom-color .mobile-nav__content .main-menu__list>li>a>button.expanded, .mobile-nav__content .main-menu__list>li>ul>li>a>button.expanded, .mobile-nav__content .main-menu__list>li>ul>li>ul>li>a>button.expanded {
+        color: red;
+    }
+
+    .custom-color .mobile-nav__content .main-menu__list li a.expanded {
+        color: red;
+    }
+
+    .custom-color .about-two {
+        padding: 70px 0 115px;
+    }
+
+    .custom-color .section-title__title {
+        font-size: 28px;
+        line-height: 34px;
+    }
+
+    .custom-color .about-two__points li .text p {
+        font-weight: 600;
+        color: black;
+        line-height: 22px;
+
+    }
 }
