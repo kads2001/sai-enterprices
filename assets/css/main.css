@@ -266,11 +266,18 @@ element.style {}
 
     padding-top: 100px;
 }
+.custom-color .company-vission .section-title__tagline{
+   color: #e8212b;
+}
+.custom-color .company-vission .section-title__tagline:before{
+    background-color: red;
+
+}
 
 @media screen and (max-width:767px) {
     .custom-color .main-slider-two .container {
 
-        padding-top: 70px;
+        padding-top: 73px;
 
     }
 
