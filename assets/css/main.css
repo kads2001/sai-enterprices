@@ -227,3 +227,14 @@ background-color: #e8212b;
  .custom-color .testimonial-one__quote i{
     color: #e8212b;
 }
+ .custom-color .scroll-to-top:hover {
+    background-color: transparent;
+    border: 1px solid red;
+    color: red;
+}
+ .custom-color  .scroll-to-top:hover i{
+       color: red;
+}
+ .custom-color .team-one__single:hover .team-one__name a{
+color: red;
+}
