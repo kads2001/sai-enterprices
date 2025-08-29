@@ -352,7 +352,7 @@ element.style {}
     color: red;
 }
 .custom-color.custom-color-2 .contact-page__btn {
-   background-color: none;
+   background-color: #fff;
 }
 .custom-color .main-menu .main-menu__list>li.current>a {
     color: red;
@@ -370,7 +370,9 @@ element.style {}
 }
 
 
-
+.custom-color  .contact-page__content-title:before{
+    background-color: red;
+}
 @media screen and (max-width:767px) {
     .custom-color .main-slider-two .container {
 
