@@ -125,9 +125,11 @@
 .custom-color .main-slider-two__call-icon span {
     color: #e8212b;
 }
-.custom-color .blog-one__date p span::after{
-    background-color: red;
+
+.custom-color .blog-one__date p span::after {
+    background-color: #e8212b;
 }
+
 .custom-color .main-slider-two__sub-title {
 
     color: #e8212b;
@@ -250,29 +252,124 @@ element.style {}
 
 .custom-color .scroll-to-top:hover {
     background-color: transparent;
-    border: 1px solid red;
-    color: red;
+    border: 1px solid #e8212b;
+    color: #e8212b;
 }
 
 .custom-color .scroll-to-top:hover i {
-    color: red;
+    color: #e8212b;
 }
 
 .custom-color .team-one__single:hover .team-one__name a {
-    color: red;
+    color: #e8212b;
 }
 
 .custom-color .main-slider-two .container {
 
     padding-top: 100px;
 }
-.custom-color .company-vission .section-title__tagline{
-   color: #e8212b;
+
+.custom-color .company-vission .section-title__tagline {
+    color: #e8212b;
 }
-.custom-color .company-vission .section-title__tagline:before{
-    background-color: red;
+
+.custom-color .company-vission .section-title__tagline:before {
+    background-color: #e8212b;
 
 }
+
+.custom-color .about-three__count-box {
+
+    background-color: #e8212b;
+}
+
+.custom-color .about-three__points li .icon span {
+    position: relative;
+    display: inline-block;
+    font-size: 20px;
+    color: #e8212b;
+}
+
+/* .custom-color .main-menu .main-menu__list>li.current>a, .main-menu .main-menu__list>li:hover>a, .stricky-header .main-menu__list>li.current>a, .stricky-header .main-menu__list>li:hover>a {
+    color: #e8212b;
+} */
+
+.custom-color .main-menu .main-menu__list>li:hover>a {
+    color: #e8212b;
+}
+
+.custom-color .main-menu .main-menu__list>li a.active {
+    color: #e8212b;
+}
+
+.custom-color.custom-color-2 .main-menu__side-content-icon .navSidebar-button {
+
+    border: 1px solid #e8212b;
+
+}
+
+.custom-color.custom-color-2 .icon-dots-menu-1 {
+    background-color: #e8212b;
+}
+
+.custom-color.custom-color-2 .icon-dots-menu-2 {
+    background-color: #e8212b;
+}
+
+.custom-color.custom-color-2 .main-menu-four .main-menu__call-icon span {
+    color: #e8212b;
+}
+
+.custom-color.custom-color-2 .main-menu-four .main-menu__call-sub-title {
+    color: #e8212b;
+}
+
+.custom-color.custom-color-2 .main-menu-four .main-menu__call-number a {
+    color: #e8212b;
+}
+
+.custom-color.custom-color-2 .main-menu__call {
+    background-color: transparent;
+}
+
+.custom-color.custom-color-2 .main-menu__call-icon span {
+    color: #e8212b;
+}
+
+.custom-color.custom-color-2 .main-menu__call-sub-title {
+    color: #e8212b;
+}
+
+.custom-color.custom-color-2 .main-menu__call-number a {
+    color: #e8212b;
+}
+
+.custom-color .services-page__icon::before {
+    background-color: rgb(255 23 23);
+}
+
+.custom-color .services-page__title a:hover {
+    color: red;
+}
+.custom-color.custom-color-2 .contact-page__btn {
+   background-color: none;
+}
+.custom-color .main-menu .main-menu__list>li.current>a {
+    color: red;
+}
+
+.custom-color .contact-page__btn:hover {
+    background-color: red;
+    color: red;
+}
+
+.custom-color .contact-page__btn {
+    color: red;
+    border: 1px solid red;
+    background-color: none;
+}
+
+
 
 @media screen and (max-width:767px) {
     .custom-color .main-slider-two .container {
@@ -320,15 +417,15 @@ element.style {}
     }
 
     .custom-color .mobile-nav__content .main-menu__list>li>a>button, .mobile-nav__content .main-menu__list>li>ul>li>a>button, .mobile-nav__content .main-menu__list>li>ul>li>ul>li>a>button {
-        background-color: red;
+        background-color: #e8212b;
     }
 
     .custom-color .mobile-nav__content .main-menu__list>li>a>button.expanded, .mobile-nav__content .main-menu__list>li>ul>li>a>button.expanded, .mobile-nav__content .main-menu__list>li>ul>li>ul>li>a>button.expanded {
-        color: red;
+        color: #e8212b;
     }
 
     .custom-color .mobile-nav__content .main-menu__list li a.expanded {
-        color: red;
+        color: #e8212b;
     }
 
     .custom-color .about-two {
